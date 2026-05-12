@@ -571,7 +571,7 @@
   "2213-9567": "VI|200|120|Journal of Magnesium and Alloys",
   "2666-7924": "VI|200|120|Advances in Applied Energy",
   "2666-7924": "VI|200|120|Advances in Applied Energy",
-  "2666-9358": "1.33|VI|200|Materials Reports",
+  "2666-9358": "VI|200|120|Materials Reports",
   "0140-525X": "VII|250|150|BEHAVIORAL AND BRAIN SCIENCES",
   "1469-1825": "VII|250|150|BEHAVIORAL AND BRAIN SCIENCES",
   "1057-7149": "VI|200|120|IEEE TRANSACTIONS ON IMAGE PROCESSING",
@@ -666,8 +666,8 @@
   "1674-8018": "VI|200|120|Protein & Cell",
   "1947-5438": "VI|200|120|Annual Review of Chemical and Biomolecular Engineering",
   "1947-5446": "VI|200|120|Annual Review of Chemical and Biomolecular Engineering",
-  "2666-0873": "2.57|VI|200|JACC",
-  "2666-0873": "2.57|VI|200|JACC",
+  "2666-0873": "VI|200|120|JACC",
+  "2666-0873": "VI|200|120|JACC",
   "2766-8525": "VI|200|120|SmartMat",
   "2688-819X": "VI|200|120|SmartMat",
   "1756-9966": "VI|200|120|JOURNAL OF EXPERIMENTAL & CLINICAL CANCER RESEARCH",
@@ -2119,8 +2119,8 @@
   "2213-1396": "V|150|90|Sustainable Energy Technologies and Assessments",
   "2332-7731": "V|150|90|IEEE Transactions on Cognitive Communications and Networking",
   "2332-7731": "V|150|90|IEEE Transactions on Cognitive Communications and Networking",
-  "2666-6820": "0.69|V|150|Composites Part C",
-  "2666-6820": "0.69|V|150|Composites Part C",
+  "2666-6820": "V|150|90|Composites Part C",
+  "2666-6820": "V|150|90|Composites Part C",
   "2058-7716": "V|150|90|Cell Death Discovery",
   "2665-9271": "V|150|90|Current Research in Food Science",
   "2773-2304": "V|150|90|Rock Mechanics Bulletin",
@@ -3300,8 +3300,8 @@
   "1462-3994": "IV|100|60|EXPERT REVIEWS IN MOLECULAR MEDICINE",
   "1535-7163": "IV|100|60|MOLECULAR CANCER THERAPEUTICS",
   "1538-8514": "IV|100|60|MOLECULAR CANCER THERAPEUTICS",
-  "1536-9323": "IV|100|60|Journal of the Association for Information Systems",
-  "1558-3457": "IV|100|60|Journal of the Association for Information Systems",
+  "1536-9323": "VI|200|120|Journal of the Association for Information Systems",
+  "1558-3457": "VI|200|120|Journal of the Association for Information Systems",
   "1549-9618": "IV|100|60|Journal of Chemical Theory and Computation",
   "1549-9626": "IV|100|60|Journal of Chemical Theory and Computation",
   "1755-098X": "IV|100|60|Molecular Ecology Resources",
@@ -4380,8 +4380,8 @@
   "2576-6422": "IV|100|60|ACS Applied Bio Materials",
   "2637-6105": "IV|100|60|ACS Applied Polymer Materials",
   "2637-6105": "IV|100|60|ACS Applied Polymer Materials",
-  "2666-5662": "0.97|IV|100|Food Chemistry",
-  "2666-5662": "0.97|IV|100|Food Chemistry",
+  "2666-5662": "IV|100|60|Food Chemistry",
+  "2666-5662": "IV|100|60|Food Chemistry",
   "2772-3690": "IV|100|60|Additive Manufacturing Letters",
   "2772-3690": "IV|100|60|Additive Manufacturing Letters",
   "2772-4212": "IV|100|60|Journal of Membrane Science Letters",
@@ -4955,7 +4955,7 @@
   "2164-2583": "IV|100|60|Systems Science & Control Engineering",
   "2234-2451": "IV|100|60|Knee Surgery & Related Research",
   "2253-1556": "IV|100|60|ImmunoTargets and Therapy",
-  "2352-8729": "1.21|IV|100|Alzheimer's & Dementia",
+  "2352-8729": "IV|100|60|Alzheimer's & Dementia",
   "2504-2289": "IV|100|60|Big Data and Cognitive Computing",
   "2524-4671": "IV|100|60|Animal Microbiome",
   "2632-1009": "IV|100|60|BMJ Health & Care Informatics",
@@ -6698,8 +6698,8 @@
   "2636-0780": "IV|100|60|Food Science of Animal Resources",
   "2666-8319": "IV|100|60|Talanta Open",
   "2666-8319": "IV|100|60|Talanta Open",
-  "2667-1743": "1.26|IV|100|Biological Psychiatry",
-  "2667-1743": "1.26|IV|100|Biological Psychiatry",
+  "2667-1743": "IV|100|60|Biological Psychiatry",
+  "2667-1743": "IV|100|60|Biological Psychiatry",
   "2691-1914": "IV|100|60|ACM Transactions on Internet of Things",
   "2577-6207": "IV|100|60|ACM Transactions on Internet of Things",
   "8755-2930": "IV|100|60|EARTHQUAKE SPECTRA",
@@ -7046,7 +7046,7 @@
   "2713-4148": "IV|100|60|Clinical and Experimental Pediatrics",
   "2752-3349": "IV|100|60|Global Social Challenges Journal",
   "2771-0408": "IV|100|60|Artificial Intelligence Surgery",
-  "2772-2759": "0.78|IV|100|Measurement",
+  "2772-2759": "IV|100|60|Measurement",
   "2772-9419": "IV|100|60|Systems and Soft Computing",
   "0002-8177": "IV|100|60|JOURNAL OF THE AMERICAN DENTAL ASSOCIATION",
   "1943-4723": "IV|100|60|JOURNAL OF THE AMERICAN DENTAL ASSOCIATION",
@@ -8624,7 +8624,7 @@
   "2524-3489": "IV|100|60|Neurological Research and Practice",
   "2571-9394": "IV|100|60|Forecasting",
   "2624-893X": "IV|100|60|Frontiers in Forests and Global Change",
-  "2634-4505": "0.51|IV|100|Environmental Research",
+  "2634-4505": "IV|100|60|Environmental Research",
   "2644-1349": "IV|100|60|IEEE Open Journal of the Solid-State Circuits Society",
   "2666-7207": "IV|100|60|Results in Control and Optimization",
   "2687-7910": "IV|100|60|IEEE Open Access Journal of Power and Energy",
@@ -11771,7 +11771,7 @@
   "2414-6366": "III|50|30|Tropical Medicine and Infectious Disease",
   "2471-2906": "III|50|30|Phytobiomes Journal",
   "2520-8217": "III|50|30|Journal of Paleolithic Archaeology",
-  "2573-9468": "0.99|III|50|Wiley Interdisciplinary Reviews",
+  "2573-9468": "III|50|30|Wiley Interdisciplinary Reviews",
   "2574-1292": "III|50|30|Policy Design and Practice",
   "2577-0187": "III|50|30|SIAM Journal on Mathematics of Data Science",
   "2624-6120": "III|50|30|Signals",
@@ -13810,8 +13810,8 @@
   "2666-3376": "III|50|30|Sports Medicine and Health Science",
   "2689-6583": "III|50|30|Journal of Environmental Science and Health Part C-Toxicology and Carcinogenesis",
   "2689-6591": "III|50|30|Journal of Environmental Science and Health Part C-Toxicology and Carcinogenesis",
-  "2692-1626": "0.54|III|50|Digital Threats",
-  "2576-5337": "0.54|III|50|Digital Threats",
+  "2692-1626": "III|50|30|Digital Threats",
+  "2576-5337": "III|50|30|Digital Threats",
   "2709-8028": "III|50|30|AQUA-Water Infrastructure Ecosystems and Society",
   "2709-8036": "III|50|30|AQUA-Water Infrastructure Ecosystems and Society",
   "2709-8044": "III|50|30|Water Quality Research Journal",
@@ -14636,8 +14636,8 @@
   "2572-6676": "III|50|30|Mining Technology-Transactions of the Institutions of Mining and Metallurgy",
   "2578-8086": "III|50|30|Journal of Latinx Psychology",
   "2578-8094": "III|50|30|Journal of Latinx Psychology",
-  "2590-1362": "0.6|III|50|Vaccine",
-  "2590-1362": "0.6|III|50|Vaccine",
+  "2590-1362": "III|50|30|Vaccine",
+  "2590-1362": "III|50|30|Vaccine",
   "2631-6862": "III|50|30|Archnet-IJAR International Journal of Architectural Research",
   "1938-7806": "III|50|30|Archnet-IJAR International Journal of Architectural Research",
   "2632-3524": "III|50|30|Palliative Care & Social Practice",
@@ -18229,7 +18229,7 @@
   "2641-5917": "III|50|30|Infectious Microbes & Diseases",
   "2641-6549": "III|50|30|PHAGE-Therapy Applications and Research",
   "2651-2939": "III|50|30|Constructive Mathematical Analysis",
-  "2666-6022": "0.4|III|50|American Heart Journal Plus",
+  "2666-6022": "III|50|30|American Heart Journal Plus",
   "2667-2766": "III|50|30|Exploratory Research in Clinical and Social Pharmacy",
   "2673-4826": "III|50|30|Electricity",
   "2673-4915": "III|50|30|Frontiers in Dental Medicine",
@@ -30654,8 +30654,8 @@
   "1548-3681": "II|25|15|International Journal of e-Collaboration",
   "1549-0955": "II|25|15|Population Review",
   "1549-0955": "II|25|15|Population Review",
-  "1549-2230": "0.22|II|25|Teknokultura",
-  "1549-2230": "0.22|II|25|Teknokultura",
+  "1549-2230": "II|25|15|Teknokultura",
+  "1549-2230": "II|25|15|Teknokultura",
   "1551-9031": "II|25|15|ACM SIGecom Exchanges",
   "1551-9031": "II|25|15|ACM SIGecom Exchanges",
   "1555-3396": "II|25|15|International Journal of Healthcare Information Systems and Informatics",
@@ -33181,8 +33181,8 @@
   "2509-9965": "II|25|15|International Journal of Latin American Religions",
   "2514-9407": "II|25|15|Journal of Property Planning and Environmental Law",
   "2514-9415": "II|25|15|Journal of Property Planning and Environmental Law",
-  "2516-1156": "0.24|II|25|Ancient Philosophy Today",
-  "2516-1164": "0.24|II|25|Ancient Philosophy Today",
+  "2516-1156": "II|25|15|Ancient Philosophy Today",
+  "2516-1164": "II|25|15|Ancient Philosophy Today",
   "2519-058X": "II|25|15|Skhidnoievropeiskyi Istorychnyi Visnyk-East European Historical Bulletin",
   "2519-058X": "II|25|15|Skhidnoievropeiskyi Istorychnyi Visnyk-East European Historical Bulletin",
   "2519-2396": "II|25|15|Mineralogical Journal-Ukraine",
@@ -35216,8 +35216,8 @@
   "2658-6525": "II|25|15|Engineering Technologies and Systems",
   "2665-9336": "II|25|15|Asian Languages and Linguistics",
   "2665-9344": "II|25|15|Asian Languages and Linguistics",
-  "2666-6219": "0.05|II|25|Current Problems in Cancer",
-  "2666-6219": "0.05|II|25|Current Problems in Cancer",
+  "2666-6219": "II|25|15|Current Problems in Cancer",
+  "2666-6219": "II|25|15|Current Problems in Cancer",
   "2687-2625": "II|25|15|European Journal of Geriatrics and Gerontology",
   "2687-2625": "II|25|15|European Journal of Geriatrics and Gerontology",
   "2688-8211": "II|25|15|Hiperboreea",
@@ -36797,8 +36797,8 @@
   "1852-2971": "II|25|15|Derecho y Ciencias Sociales",
   "1853-6190": "II|25|15|Revista Latinoamericana de Metodologia de la Investigacion Social",
   "1853-6190": "II|25|15|Revista Latinoamericana de Metodologia de la Investigacion Social",
-  "1854-9632": "0.21|II|25|Ars & Humanitas",
-  "2350-4218": "0.21|II|25|Ars & Humanitas",
+  "1854-9632": "II|25|15|Ars & Humanitas",
+  "2350-4218": "II|25|15|Ars & Humanitas",
   "1856-9331": "II|25|15|REDHECS-Revista Electronica de Humanidades Educacion y Comunicacion Social",
   "1856-9331": "II|25|15|REDHECS-Revista Electronica de Humanidades Educacion y Comunicacion Social",
   "1856-9528": "II|25|15|Salud Arte y Cuidado",
@@ -38820,7 +38820,7 @@
   "2948-295X": "I|10|5|Discover Space",
   "2950-3116": "I|10|5|Comparative Immunology Reports",
   "2950-5097": "I|10|5|Ecological Frontiers",
-  "2950-6484": "N/A|I|10|Applied Catalysis O",
+  "2950-6484": "I|10|5|Applied Catalysis O",
   "2976-8357": "I|10|5|Substance Use-Research and Treatment",
   "2977-0424": "I|10|5|Natural Language Processing",
   "2981-0795": "I|10|5|Interdisciplinary Journal of Management Studies",
