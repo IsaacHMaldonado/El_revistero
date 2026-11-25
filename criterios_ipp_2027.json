@@ -1,0 +1,92 @@
+{
+  "version": "2027.1-PROMOCION",
+  "fechaActualizacion": "2026-12-01",
+  "anioCorteConvocatoria": 2027,
+  "antiguedadMinimaCategoria": 2,
+  "equivalencias": {
+    "Ninguna": { "grupoEquivalente": 0, "articulosSustituidos": 0 },
+    "Grupo II (Capítulo SENSE C)": { "grupoEquivalente": 2, "articulosSustituidos": 1 },
+    "Grupo III (Capítulo SENSE B)": { "grupoEquivalente": 3, "articulosSustituidos": 1 },
+    "Grupo IV (Capítulo SENSE A o Patente Aprobada)": { "grupoEquivalente": 4, "articulosSustituidos": 1 },
+    "Grupo V (Libro Editado SENSE B)": { "grupoEquivalente": 5, "articulosSustituidos": 1 },
+    "Grupo VI (Patente Aprobada y en Uso)": { "grupoEquivalente": 6, "articulosSustituidos": 1 },
+    "Grupo VII (Libro Editado SENSE A)": { "grupoEquivalente": 7, "articulosSustituidos": 1 }
+  },
+  "categorias": {
+    "ICM B": {
+      "categoriaOrigen": "ICM A",
+      "aniosLicenciatura": 2,
+      "gradoRequerido": "MAESTRIA_O_ESP",
+      "permiteExcepcionMaestria": false,
+      "grupoMinimo": 1,
+      "articulosTotales": 0,
+      "articulosRecientes": 2,
+      "ventanaAniosRecientes": 3,
+      "primerAutorCorresponsal": 0,
+      "citasMinimas": 0,
+      "sniiRequerido": "NINGUNO",
+      "tesisMinimas": 0,
+      "financiamientosMinimos": 0
+    },
+    "ICM C": {
+      "categoriaOrigen": "ICM B",
+      "aniosLicenciatura": 3,
+      "gradoRequerido": "DOCTORADO_O_SUBESP",
+      "permiteExcepcionMaestria": true,
+      "grupoMinimo": 3,
+      "articulosTotales": 0,
+      "articulosRecientes": 2,
+      "ventanaAniosRecientes": 3,
+      "primerAutorCorresponsal": 0,
+      "citasMinimas": 0,
+      "sniiRequerido": "NINGUNO",
+      "tesisMinimas": 0,
+      "financiamientosMinimos": 0
+    },
+    "ICM D": {
+      "categoriaOrigen": "ICM C",
+      "aniosLicenciatura": 4,
+      "gradoRequerido": "DOCTORADO_O_SUBESP",
+      "permiteExcepcionMaestria": true,
+      "grupoMinimo": 3,
+      "articulosTotales": 10,
+      "articulosRecientes": 3,
+      "ventanaAniosRecientes": 3,
+      "primerAutorCorresponsal": 1,
+      "citasMinimas": 0,
+      "sniiRequerido": "CUALQUIERA",
+      "tesisMinimas": 1,
+      "financiamientosMinimos": 1
+    },
+    "ICM E": {
+      "categoriaOrigen": "ICM D",
+      "aniosLicenciatura": 8,
+      "gradoRequerido": "DOCTORADO_O_SUBESP",
+      "permiteExcepcionMaestria": true,
+      "grupoMinimo": 3,
+      "articulosTotales": 20,
+      "articulosRecientes": 6,
+      "ventanaAniosRecientes": 5,
+      "primerAutorCorresponsal": 5,
+      "citasMinimas": 150,
+      "sniiRequerido": "NIVEL_2_O_3",
+      "tesisMinimas": 3,
+      "financiamientosMinimos": 2
+    },
+    "ICM F": {
+      "categoriaOrigen": "ICM E",
+      "aniosLicenciatura": 10,
+      "gradoRequerido": "DOCTORADO_O_SUBESP",
+      "permiteExcepcionMaestria": true,
+      "grupoMinimo": 3,
+      "articulosTotales": 50,
+      "articulosRecientes": 10,
+      "ventanaAniosRecientes": 5,
+      "primerAutorCorresponsal": 15,
+      "citasMinimas": 400,
+      "sniiRequerido": "NIVEL_2_O_3",
+      "tesisMinimas": 5,
+      "financiamientosMinimos": 4
+    }
+  }
+}
