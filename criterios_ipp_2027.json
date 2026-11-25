@@ -1,92 +1,147 @@
 {
-  "version": "2027.1-PROMOCION",
-  "fechaActualizacion": "2026-12-01",
+  "version": "2027.3-PROMOCION",
   "anioCorteConvocatoria": 2027,
-  "antiguedadMinimaCategoria": 2,
-  "equivalencias": {
-    "Ninguna": { "grupoEquivalente": 0, "articulosSustituidos": 0 },
-    "Grupo II (Capítulo SENSE C)": { "grupoEquivalente": 2, "articulosSustituidos": 1 },
-    "Grupo III (Capítulo SENSE B)": { "grupoEquivalente": 3, "articulosSustituidos": 1 },
-    "Grupo IV (Capítulo SENSE A o Patente Aprobada)": { "grupoEquivalente": 4, "articulosSustituidos": 1 },
-    "Grupo V (Libro Editado SENSE B)": { "grupoEquivalente": 5, "articulosSustituidos": 1 },
-    "Grupo VI (Patente Aprobada y en Uso)": { "grupoEquivalente": 6, "articulosSustituidos": 1 },
-    "Grupo VII (Libro Editado SENSE A)": { "grupoEquivalente": 7, "articulosSustituidos": 1 }
+  "reglasGenerales": {
+    "antiguedadMinimaCategoria": 2,
+    "maxEquivalenciasPermitidas": 1,
+    "porcentajeMaxAutocitasGrupo3": 0.20,
+    "permiteCartasCompromiso": true
   },
   "categorias": {
     "ICM B": {
-      "categoriaOrigen": "ICM A",
+      "categoriaOrigenRequerida": "Investigador ICM A",
       "aniosLicenciatura": 2,
       "gradoRequerido": "MAESTRIA_O_ESP",
+      "descripcionGrado": "Maestría o Esp. Médica",
       "permiteExcepcionMaestria": false,
-      "grupoMinimo": 1,
-      "articulosTotales": 0,
-      "articulosRecientes": 2,
-      "ventanaAniosRecientes": 3,
-      "primerAutorCorresponsal": 0,
+      "grupoMinimo": 3,
       "citasMinimas": 0,
       "sniiRequerido": "NINGUNO",
+      "descripcionSnii": "No obligatorio",
       "tesisMinimas": 0,
-      "financiamientosMinimos": 0
+      "financiamientosMinimos": 0,
+      "sinNota": {
+        "req8_totales": 0,
+        "req9_primerAutorTotal": 0,
+        "req10_recientes3Anios": 2,
+        "req11_recientes5Anios": 0,
+        "req17_primerAutor3Anios": 0
+      },
+      "conNota1": {
+        "req8_totales": 0,
+        "req9_primerAutorTotal": 0,
+        "req10_recientes3Anios": 2,
+        "req11_recientes5Anios": 0,
+        "req17_primerAutor3Anios": 0
+      }
     },
     "ICM C": {
-      "categoriaOrigen": "ICM B",
+      "categoriaOrigenRequerida": "Investigador ICM B",
       "aniosLicenciatura": 3,
       "gradoRequerido": "DOCTORADO_O_SUBESP",
+      "descripcionGrado": "Doctorado / Esp.+Subesp.",
       "permiteExcepcionMaestria": true,
       "grupoMinimo": 3,
-      "articulosTotales": 0,
-      "articulosRecientes": 2,
-      "ventanaAniosRecientes": 3,
-      "primerAutorCorresponsal": 0,
       "citasMinimas": 0,
       "sniiRequerido": "NINGUNO",
+      "descripcionSnii": "No obligatorio",
       "tesisMinimas": 0,
-      "financiamientosMinimos": 0
+      "financiamientosMinimos": 0,
+      "sinNota": {
+        "req8_totales": 2,
+        "req9_primerAutorTotal": 0,
+        "req10_recientes3Anios": 2,
+        "req11_recientes5Anios": 0,
+        "req17_primerAutor3Anios": 0
+      },
+      "conNota1": {
+        "req8_totales": 10,
+        "req9_primerAutorTotal": 0,
+        "req10_recientes3Anios": 6,
+        "req11_recientes5Anios": 0,
+        "req17_primerAutor3Anios": 1
+      }
     },
     "ICM D": {
-      "categoriaOrigen": "ICM C",
-      "aniosLicenciatura": 4,
+      "categoriaOrigenRequerida": "Investigador ICM C",
+      "aniosLicenciatura": 5,
       "gradoRequerido": "DOCTORADO_O_SUBESP",
+      "descripcionGrado": "Doctorado / Esp.+Subesp.",
       "permiteExcepcionMaestria": true,
       "grupoMinimo": 3,
-      "articulosTotales": 10,
-      "articulosRecientes": 3,
-      "ventanaAniosRecientes": 3,
-      "primerAutorCorresponsal": 1,
       "citasMinimas": 0,
       "sniiRequerido": "CUALQUIERA",
+      "descripcionSnii": "SNII Vigente (C, 1, 2, 3 o E)",
       "tesisMinimas": 1,
-      "financiamientosMinimos": 1
+      "financiamientosMinimos": 1,
+      "sinNota": {
+        "req8_totales": 10,
+        "req9_primerAutorTotal": 1,
+        "req10_recientes3Anios": 3,
+        "req11_recientes5Anios": 0,
+        "req17_primerAutor3Anios": 0
+      },
+      "conNota1": {
+        "req8_totales": 18,
+        "req9_primerAutorTotal": 1,
+        "req10_recientes3Anios": 7,
+        "req11_recientes5Anios": 0,
+        "req17_primerAutor3Anios": 1
+      }
     },
     "ICM E": {
-      "categoriaOrigen": "ICM D",
+      "categoriaOrigenRequerida": "Investigador ICM D",
       "aniosLicenciatura": 8,
       "gradoRequerido": "DOCTORADO_O_SUBESP",
+      "descripcionGrado": "Doctorado / Esp.+Subesp.",
       "permiteExcepcionMaestria": true,
       "grupoMinimo": 3,
-      "articulosTotales": 20,
-      "articulosRecientes": 6,
-      "ventanaAniosRecientes": 5,
-      "primerAutorCorresponsal": 5,
       "citasMinimas": 150,
-      "sniiRequerido": "NIVEL_2_O_3",
+      "sniiRequerido": "NIVEL_2_O_SUPERIOR",
+      "descripcionSnii": "SNII Nivel 2, 3 o Emérito",
       "tesisMinimas": 3,
-      "financiamientosMinimos": 2
+      "financiamientosMinimos": 2,
+      "sinNota": {
+        "req8_totales": 20,
+        "req9_primerAutorTotal": 5,
+        "req10_recientes3Anios": 0,
+        "req11_recientes5Anios": 6,
+        "req17_primerAutor3Anios": 0
+      },
+      "conNota1": {
+        "req8_totales": 28,
+        "req9_primerAutorTotal": 5,
+        "req10_recientes3Anios": 0,
+        "req11_recientes5Anios": 10,
+        "req17_primerAutor3Anios": 1
+      }
     },
     "ICM F": {
-      "categoriaOrigen": "ICM E",
+      "categoriaOrigenRequerida": "Investigador ICM E",
       "aniosLicenciatura": 10,
       "gradoRequerido": "DOCTORADO_O_SUBESP",
+      "descripcionGrado": "Doctorado / Esp.+Subesp.",
       "permiteExcepcionMaestria": true,
       "grupoMinimo": 3,
-      "articulosTotales": 50,
-      "articulosRecientes": 10,
-      "ventanaAniosRecientes": 5,
-      "primerAutorCorresponsal": 15,
       "citasMinimas": 400,
-      "sniiRequerido": "NIVEL_2_O_3",
+      "sniiRequerido": "NIVEL_2_O_SUPERIOR",
+      "descripcionSnii": "SNII Nivel 2, 3 o Emérito",
       "tesisMinimas": 5,
-      "financiamientosMinimos": 4
+      "financiamientosMinimos": 3,
+      "sinNota": {
+        "req8_totales": 50,
+        "req9_primerAutorTotal": 15,
+        "req10_recientes3Anios": 0,
+        "req11_recientes5Anios": 10,
+        "req17_primerAutor3Anios": 0
+      },
+      "conNota1": {
+        "req8_totales": 58,
+        "req9_primerAutorTotal": 15,
+        "req10_recientes3Anios": 0,
+        "req11_recientes5Anios": 14,
+        "req17_primerAutor3Anios": 1
+      }
     }
   }
 }
